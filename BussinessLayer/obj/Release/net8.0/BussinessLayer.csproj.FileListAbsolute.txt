@@ -1,0 +1,17 @@
+D:\C#\WebApi\HospitalManagement\HospitalManagementServices\HospitalManagementServices\BussinessLayer\bin\Release\net8.0\BussinessLayer.deps.json
+D:\C#\WebApi\HospitalManagement\HospitalManagementServices\HospitalManagementServices\BussinessLayer\bin\Release\net8.0\BussinessLayer.dll
+D:\C#\WebApi\HospitalManagement\HospitalManagementServices\HospitalManagementServices\BussinessLayer\bin\Release\net8.0\BussinessLayer.pdb
+D:\C#\WebApi\HospitalManagement\HospitalManagementServices\HospitalManagementServices\BussinessLayer\bin\Release\net8.0\ModelLayer.dll
+D:\C#\WebApi\HospitalManagement\HospitalManagementServices\HospitalManagementServices\BussinessLayer\bin\Release\net8.0\RepositoryLayer.dll
+D:\C#\WebApi\HospitalManagement\HospitalManagementServices\HospitalManagementServices\BussinessLayer\bin\Release\net8.0\RepositoryLayer.pdb
+D:\C#\WebApi\HospitalManagement\HospitalManagementServices\HospitalManagementServices\BussinessLayer\bin\Release\net8.0\ModelLayer.pdb
+D:\C#\WebApi\HospitalManagement\HospitalManagementServices\HospitalManagementServices\BussinessLayer\obj\Release\net8.0\BussinessLayer.csproj.AssemblyReference.cache
+D:\C#\WebApi\HospitalManagement\HospitalManagementServices\HospitalManagementServices\BussinessLayer\obj\Release\net8.0\BussinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\WebApi\HospitalManagement\HospitalManagementServices\HospitalManagementServices\BussinessLayer\obj\Release\net8.0\BussinessLayer.AssemblyInfoInputs.cache
+D:\C#\WebApi\HospitalManagement\HospitalManagementServices\HospitalManagementServices\BussinessLayer\obj\Release\net8.0\BussinessLayer.AssemblyInfo.cs
+D:\C#\WebApi\HospitalManagement\HospitalManagementServices\HospitalManagementServices\BussinessLayer\obj\Release\net8.0\BussinessLayer.csproj.CoreCompileInputs.cache
+D:\C#\WebApi\HospitalManagement\HospitalManagementServices\HospitalManagementServices\BussinessLayer\obj\Release\net8.0\Bussines.E1038C4E.Up2Date
+D:\C#\WebApi\HospitalManagement\HospitalManagementServices\HospitalManagementServices\BussinessLayer\obj\Release\net8.0\BussinessLayer.dll
+D:\C#\WebApi\HospitalManagement\HospitalManagementServices\HospitalManagementServices\BussinessLayer\obj\Release\net8.0\refint\BussinessLayer.dll
+D:\C#\WebApi\HospitalManagement\HospitalManagementServices\HospitalManagementServices\BussinessLayer\obj\Release\net8.0\BussinessLayer.pdb
+D:\C#\WebApi\HospitalManagement\HospitalManagementServices\HospitalManagementServices\BussinessLayer\obj\Release\net8.0\ref\BussinessLayer.dll

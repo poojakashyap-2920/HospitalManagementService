@@ -1,0 +1,282 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\WebApi\\HospitalManagement\\HospitalManagementServices\\HospitalManagementServices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38370D97-E7A9-4F7B-9E07-1D6F5887658D}|HospitalManagementServices\\HospitalManagementServices.csproj|D:\\C#\\WebApi\\HospitalManagement\\HospitalManagementServices\\HospitalManagementServices\\hospitalmanagementservices\\controllers\\doctormanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38370D97-E7A9-4F7B-9E07-1D6F5887658D}|HospitalManagementServices\\HospitalManagementServices.csproj|solutionrelative:hospitalmanagementservices\\controllers\\doctormanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96A97097-9F55-40D3-BBB2-EDDB58A9A62C}|BussinessLayer\\BussinessLayer.csproj|d:\\c#\\webapi\\hospitalmanagement\\hospitalmanagementservices\\hospitalmanagementservices\\bussinesslayer\\service\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96A97097-9F55-40D3-BBB2-EDDB58A9A62C}|BussinessLayer\\BussinessLayer.csproj|solutionrelative:bussinesslayer\\service\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38370D97-E7A9-4F7B-9E07-1D6F5887658D}|HospitalManagementServices\\HospitalManagementServices.csproj|D:\\C#\\WebApi\\HospitalManagement\\HospitalManagementServices\\HospitalManagementServices\\hospitalmanagementservices\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38370D97-E7A9-4F7B-9E07-1D6F5887658D}|HospitalManagementServices\\HospitalManagementServices.csproj|solutionrelative:hospitalmanagementservices\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38370D97-E7A9-4F7B-9E07-1D6F5887658D}|HospitalManagementServices\\HospitalManagementServices.csproj|D:\\C#\\WebApi\\HospitalManagement\\HospitalManagementServices\\HospitalManagementServices\\hospitalmanagementservices\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38370D97-E7A9-4F7B-9E07-1D6F5887658D}|HospitalManagementServices\\HospitalManagementServices.csproj|solutionrelative:hospitalmanagementservices\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38370D97-E7A9-4F7B-9E07-1D6F5887658D}|HospitalManagementServices\\HospitalManagementServices.csproj|D:\\C#\\WebApi\\HospitalManagement\\HospitalManagementServices\\HospitalManagementServices\\hospitalmanagementservices\\hospitalmanagementservices.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{38370D97-E7A9-4F7B-9E07-1D6F5887658D}|HospitalManagementServices\\HospitalManagementServices.csproj|solutionrelative:hospitalmanagementservices\\hospitalmanagementservices.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38370D97-E7A9-4F7B-9E07-1D6F5887658D}|HospitalManagementServices\\HospitalManagementServices.csproj|D:\\C#\\WebApi\\HospitalManagement\\HospitalManagementServices\\HospitalManagementServices\\hospitalmanagementservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38370D97-E7A9-4F7B-9E07-1D6F5887658D}|HospitalManagementServices\\HospitalManagementServices.csproj|solutionrelative:hospitalmanagementservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13705264-F36A-4F95-8EF5-6160AF25214B}|ModelLayer\\ModelLayer.csproj|D:\\C#\\WebApi\\HospitalManagement\\HospitalManagementServices\\HospitalManagementServices\\modellayer\\entity\\userobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13705264-F36A-4F95-8EF5-6160AF25214B}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\entity\\userobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13705264-F36A-4F95-8EF5-6160AF25214B}|ModelLayer\\ModelLayer.csproj|D:\\C#\\WebApi\\HospitalManagement\\HospitalManagementServices\\HospitalManagementServices\\modellayer\\entity\\doctorinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13705264-F36A-4F95-8EF5-6160AF25214B}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\entity\\doctorinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13705264-F36A-4F95-8EF5-6160AF25214B}|ModelLayer\\ModelLayer.csproj|D:\\C#\\WebApi\\HospitalManagement\\HospitalManagementServices\\HospitalManagementServices\\modellayer\\entity\\doctorobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13705264-F36A-4F95-8EF5-6160AF25214B}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\entity\\doctorobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13705264-F36A-4F95-8EF5-6160AF25214B}|ModelLayer\\ModelLayer.csproj|D:\\C#\\WebApi\\HospitalManagement\\HospitalManagementServices\\HospitalManagementServices\\modellayer\\entity\\doctorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13705264-F36A-4F95-8EF5-6160AF25214B}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\entity\\doctorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13705264-F36A-4F95-8EF5-6160AF25214B}|ModelLayer\\ModelLayer.csproj|D:\\C#\\WebApi\\HospitalManagement\\HospitalManagementServices\\HospitalManagementServices\\modellayer\\entity\\departmententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13705264-F36A-4F95-8EF5-6160AF25214B}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\entity\\departmententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3293A7-3858-42B0-A79F-FA581BF0F32D}|RepositoryLayer\\RepositoryLayer.csproj|D:\\C#\\WebApi\\HospitalManagement\\HospitalManagementServices\\HospitalManagementServices\\repositorylayer\\context\\hospitalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3293A7-3858-42B0-A79F-FA581BF0F32D}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\context\\hospitalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3293A7-3858-42B0-A79F-FA581BF0F32D}|RepositoryLayer\\RepositoryLayer.csproj|D:\\C#\\WebApi\\HospitalManagement\\HospitalManagementServices\\HospitalManagementServices\\repositorylayer\\interface\\idoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3293A7-3858-42B0-A79F-FA581BF0F32D}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\interface\\idoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38370D97-E7A9-4F7B-9E07-1D6F5887658D}|HospitalManagementServices\\HospitalManagementServices.csproj|D:\\C#\\WebApi\\HospitalManagement\\HospitalManagementServices\\HospitalManagementServices\\hospitalmanagementservices\\hospitalmanagementservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{38370D97-E7A9-4F7B-9E07-1D6F5887658D}|HospitalManagementServices\\HospitalManagementServices.csproj|solutionrelative:hospitalmanagementservices\\hospitalmanagementservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3293A7-3858-42B0-A79F-FA581BF0F32D}|RepositoryLayer\\RepositoryLayer.csproj|D:\\C#\\WebApi\\HospitalManagement\\HospitalManagementServices\\HospitalManagementServices\\repositorylayer\\interface\\idepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3293A7-3858-42B0-A79F-FA581BF0F32D}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\interface\\idepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38370D97-E7A9-4F7B-9E07-1D6F5887658D}|HospitalManagementServices\\HospitalManagementServices.csproj|D:\\C#\\WebApi\\HospitalManagement\\HospitalManagementServices\\HospitalManagementServices\\hospitalmanagementservices\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38370D97-E7A9-4F7B-9E07-1D6F5887658D}|HospitalManagementServices\\HospitalManagementServices.csproj|solutionrelative:hospitalmanagementservices\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoctorService.cs",
+              "DocumentMoniker": "D:\\C#\\WebApi\\HospitalManagement\\HospitalManagementServices\\HospitalManagementServices\\BussinessLayer\\Service\\DoctorService.cs",
+              "RelativeDocumentMoniker": "BussinessLayer\\Service\\DoctorService.cs",
+              "ToolTip": "D:\\C#\\WebApi\\HospitalManagement\\HospitalManagementServices\\HospitalManagementServices\\BussinessLayer\\Service\\DoctorService.cs",
+              "RelativeToolTip": "BussinessLayer\\Service\\DoctorService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwLgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T17:39:58.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HospitalManagementServices.http",
+              "DocumentMoniker": "D:\\C#\\WebApi\\HospitalManagement\\HospitalManagementServices\\HospitalManagementServices\\HospitalManagementServices\\HospitalManagementServices.http",
+              "RelativeDocumentMoniker": "HospitalManagementServices\\HospitalManagementServices.http",
+              "ToolTip": "D:\\C#\\WebApi\\HospitalManagement\\HospitalManagementServices\\HospitalManagementServices\\HospitalManagementServices\\HospitalManagementServices.http",
+              "RelativeToolTip": "HospitalManagementServices\\HospitalManagementServices.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-04-18T16:19:22.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DoctorObject.cs",
+              "DocumentMoniker": "D:\\C#\\WebApi\\HospitalManagement\\HospitalManagementServices\\HospitalManagementServices\\ModelLayer\\Entity\\DoctorObject.cs",
+              "RelativeDocumentMoniker": "ModelLayer\\Entity\\DoctorObject.cs",
+              "ToolTip": "D:\\C#\\WebApi\\HospitalManagement\\HospitalManagementServices\\HospitalManagementServices\\ModelLayer\\Entity\\DoctorObject.cs",
+              "RelativeToolTip": "ModelLayer\\Entity\\DoctorObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T18:37:38.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserObject.cs",
+              "DocumentMoniker": "D:\\C#\\WebApi\\HospitalManagement\\HospitalManagementServices\\HospitalManagementServices\\ModelLayer\\Entity\\UserObject.cs",
+              "RelativeDocumentMoniker": "ModelLayer\\Entity\\UserObject.cs",
+              "ToolTip": "D:\\C#\\WebApi\\HospitalManagement\\HospitalManagementServices\\HospitalManagementServices\\ModelLayer\\Entity\\UserObject.cs",
+              "RelativeToolTip": "ModelLayer\\Entity\\UserObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T17:12:04.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorManagementController.cs",
+              "DocumentMoniker": "D:\\C#\\WebApi\\HospitalManagement\\HospitalManagementServices\\HospitalManagementServices\\HospitalManagementServices\\Controllers\\DoctorManagementController.cs",
+              "RelativeDocumentMoniker": "HospitalManagementServices\\Controllers\\DoctorManagementController.cs",
+              "ToolTip": "D:\\C#\\WebApi\\HospitalManagement\\HospitalManagementServices\\HospitalManagementServices\\HospitalManagementServices\\Controllers\\DoctorManagementController.cs",
+              "RelativeToolTip": "HospitalManagementServices\\Controllers\\DoctorManagementController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T08:40:57.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\C#\\WebApi\\HospitalManagement\\HospitalManagementServices\\HospitalManagementServices\\HospitalManagementServices\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "HospitalManagementServices\\Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\C#\\WebApi\\HospitalManagement\\HospitalManagementServices\\HospitalManagementServices\\HospitalManagementServices\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "HospitalManagementServices\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T19:02:54.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DoctorEntity.cs",
+              "DocumentMoniker": "D:\\C#\\WebApi\\HospitalManagement\\HospitalManagementServices\\HospitalManagementServices\\ModelLayer\\Entity\\DoctorEntity.cs",
+              "RelativeDocumentMoniker": "ModelLayer\\Entity\\DoctorEntity.cs",
+              "ToolTip": "D:\\C#\\WebApi\\HospitalManagement\\HospitalManagementServices\\HospitalManagementServices\\ModelLayer\\Entity\\DoctorEntity.cs",
+              "RelativeToolTip": "ModelLayer\\Entity\\DoctorEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T17:37:26.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\C#\\WebApi\\HospitalManagement\\HospitalManagementServices\\HospitalManagementServices\\HospitalManagementServices\\appsettings.json",
+              "RelativeDocumentMoniker": "HospitalManagementServices\\appsettings.json",
+              "ToolTip": "D:\\C#\\WebApi\\HospitalManagement\\HospitalManagementServices\\HospitalManagementServices\\HospitalManagementServices\\appsettings.json",
+              "RelativeToolTip": "HospitalManagementServices\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-16T03:45:08.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DepartmentEntity.cs",
+              "DocumentMoniker": "D:\\C#\\WebApi\\HospitalManagement\\HospitalManagementServices\\HospitalManagementServices\\ModelLayer\\Entity\\DepartmentEntity.cs",
+              "RelativeDocumentMoniker": "ModelLayer\\Entity\\DepartmentEntity.cs",
+              "ToolTip": "D:\\C#\\WebApi\\HospitalManagement\\HospitalManagementServices\\HospitalManagementServices\\ModelLayer\\Entity\\DepartmentEntity.cs",
+              "RelativeToolTip": "ModelLayer\\Entity\\DepartmentEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T17:37:45.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\WebApi\\HospitalManagement\\HospitalManagementServices\\HospitalManagementServices\\HospitalManagementServices\\Program.cs",
+              "RelativeDocumentMoniker": "HospitalManagementServices\\Program.cs",
+              "ToolTip": "D:\\C#\\WebApi\\HospitalManagement\\HospitalManagementServices\\HospitalManagementServices\\HospitalManagementServices\\Program.cs",
+              "RelativeToolTip": "HospitalManagementServices\\Program.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAkwFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T03:47:49.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HospitalContext.cs",
+              "DocumentMoniker": "D:\\C#\\WebApi\\HospitalManagement\\HospitalManagementServices\\HospitalManagementServices\\RepositoryLayer\\Context\\HospitalContext.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Context\\HospitalContext.cs",
+              "ToolTip": "D:\\C#\\WebApi\\HospitalManagement\\HospitalManagementServices\\HospitalManagementServices\\RepositoryLayer\\Context\\HospitalContext.cs",
+              "RelativeToolTip": "RepositoryLayer\\Context\\HospitalContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T01:54:22.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DoctorInfo.cs",
+              "DocumentMoniker": "D:\\C#\\WebApi\\HospitalManagement\\HospitalManagementServices\\HospitalManagementServices\\ModelLayer\\Entity\\DoctorInfo.cs",
+              "RelativeDocumentMoniker": "ModelLayer\\Entity\\DoctorInfo.cs",
+              "ToolTip": "D:\\C#\\WebApi\\HospitalManagement\\HospitalManagementServices\\HospitalManagementServices\\ModelLayer\\Entity\\DoctorInfo.cs",
+              "RelativeToolTip": "ModelLayer\\Entity\\DoctorInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T01:38:02.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IDoctor.cs",
+              "DocumentMoniker": "D:\\C#\\WebApi\\HospitalManagement\\HospitalManagementServices\\HospitalManagementServices\\RepositoryLayer\\Interface\\IDoctor.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Interface\\IDoctor.cs",
+              "ToolTip": "D:\\C#\\WebApi\\HospitalManagement\\HospitalManagementServices\\HospitalManagementServices\\RepositoryLayer\\Interface\\IDoctor.cs",
+              "RelativeToolTip": "RepositoryLayer\\Interface\\IDoctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T17:35:51.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HospitalManagementServices.csproj",
+              "DocumentMoniker": "D:\\C#\\WebApi\\HospitalManagement\\HospitalManagementServices\\HospitalManagementServices\\HospitalManagementServices\\HospitalManagementServices.csproj",
+              "RelativeDocumentMoniker": "HospitalManagementServices\\HospitalManagementServices.csproj",
+              "ToolTip": "D:\\C#\\WebApi\\HospitalManagement\\HospitalManagementServices\\HospitalManagementServices\\HospitalManagementServices\\HospitalManagementServices.csproj",
+              "RelativeToolTip": "HospitalManagementServices\\HospitalManagementServices.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-17T15:17:27.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IDepartment.cs",
+              "DocumentMoniker": "D:\\C#\\WebApi\\HospitalManagement\\HospitalManagementServices\\HospitalManagementServices\\RepositoryLayer\\Interface\\IDepartment.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Interface\\IDepartment.cs",
+              "ToolTip": "D:\\C#\\WebApi\\HospitalManagement\\HospitalManagementServices\\HospitalManagementServices\\RepositoryLayer\\Interface\\IDepartment.cs",
+              "RelativeToolTip": "RepositoryLayer\\Interface\\IDepartment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T17:36:14.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\C#\\WebApi\\HospitalManagement\\HospitalManagementServices\\HospitalManagementServices\\HospitalManagementServices\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "HospitalManagementServices\\appsettings.Development.json",
+              "ToolTip": "D:\\C#\\WebApi\\HospitalManagement\\HospitalManagementServices\\HospitalManagementServices\\HospitalManagementServices\\appsettings.Development.json",
+              "RelativeToolTip": "HospitalManagementServices\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-16T05:06:30.609Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
